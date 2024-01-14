@@ -37,4 +37,4 @@ User prompt:
 varies depending on the intended purpose, but notably this is where I introduce the Self-Generating Chain-of-Thought methodology as the system prompt, per its' design in this case, is too generalized to make use of the technique IMO.
 
 
-![temp & top p explanation table] (https://github.com/bjornbryggman/Prompts/Images/temp table.png)
+![temp & top p explanation table] (https://github.com/bjornbryggman/Prompts/Images/temp%table.png)
