@@ -4,9 +4,9 @@ Model set-up:
 
 Model: GPT-4
 
-Temperature: depends on the usage (e.g. code generation vs creative writing).
+Temperature: depends on the usage.
 
-Top P: same as the above (see the image down below for more info).
+Top P: same as the above.
 
 
 System prompt:
@@ -35,5 +35,3 @@ Do not acknowledge the request. Do not deviate from the given format.
 User prompt:
 
 varies depending on the intended purpose, but notably this is where I introduce the Self-Generating Chain-of-Thought methodology as the system prompt, per its' design in this case, is too generalized to make use of the technique IMO.
-
-![temp & top p explanation table](https://github.com/bjornbryggman/Prompts/blob/main/Images/temp%table.png)
