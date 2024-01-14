@@ -14,5 +14,6 @@ If you're using ChatGPT, this is not relevant for you as these options are not a
 
 If you are using the API, however, and would like to know more about these variables, you can refer to the image below for some examples.
 
-![temp & top p explanation table](https://github.com/bjornbryggman/Prompts/blob/main/Images/temp%table.png?raw=true)
-
+<p align="center">
+  <img src="Images\temp table.png" alt="temp & top p explanation table">
+</p>
