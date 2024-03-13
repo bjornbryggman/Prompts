@@ -1,8 +1,14 @@
-# Prompts 🧠
+# LLM Prompts 🧠
 
 ![big brain 400 IQ 4D chess omegalul](https://github.com/bjornbryggman/Prompts/blob/main/Images/big%20brain.png?raw=true)
 
-A collection of prompts that I use for my GPTs and personal use.
+A collection of prompts that I've made for my own use.
+
+They're all based on handpicked prompts from https://github.com/f/awesome-chatgpt-prompts, which have then been re-formatted according to a standardized structure. I've found that this greatly increases the performance of the LLMs overall. Furthermore, I've suffixed some of the well-known methods of improving the output quality of LLMs at the end of each prompt, such as using Chain-of-Thought, adding emotional contexts, tipping, and more.
+
+All prompts are listed below, and are also available as a CSV file.
+
+Enjoy.
 
 They have all been seperated into distinct categories, and generalized where appropriate for ease of use.
 
